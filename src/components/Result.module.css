@@ -1,0 +1,14 @@
+h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}

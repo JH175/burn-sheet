@@ -1,0 +1,39 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  font-size: 62.5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inconsolata', monospace;
+  color: #1f1f1f;
+  background-image: url('/src/assets/img/wildfire.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.appContainer {
+  width: 50rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 1rem;
+  box-shadow: 0 0.4rem 0.8rem 0 #00000033, 0 0.6rem 2rem 0 #00000030;
+}
+
+.toasterMain {
+  font-size: 2rem;
+}
+
+button:hover {
+  transform: scale(110%);
+}
+
+.toolsContainer {
+  display: flex;
+}

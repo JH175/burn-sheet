@@ -1,0 +1,10 @@
+.header {
+  text-align: center;
+}
+h1 {
+  font-size: 3.5rem;
+}
+
+.header p {
+  font-weight: bold;
+}
