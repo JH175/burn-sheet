@@ -1,5 +1,6 @@
 .logicContainer {
   position: absolute;
+  left: 40%;
   z-index: 10;
   width: 30rem;
   display: flex;

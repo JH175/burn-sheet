@@ -27,7 +27,7 @@ const Tbsa = () => {
               />
             </div>
             <h2>TBSA:</h2>
-            <img className={classes.tbsaChart} src='/src/assets/img/tbsa.png' />
+            <img className={classes.tbsaChart} src='/assets/img/tbsa.png' />
           </div>
         </Draggable>
       )}
